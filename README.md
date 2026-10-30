@@ -44,7 +44,11 @@ local code; nothing is installed or run on your machine.
   assistant registers itself; the first call opens Jaksa's own page, where you
   sign in with Apple, Google or Microsoft, as in the Jaksa app. No API key,
   no secrets in this repo, nothing read from your machine.
-- **What it can do:** read and change your own Jaksa account only. Anything that
+- **What it can do:** read and change your own Jaksa account, and, when you ask,
+  act beyond it the way the app does: post a workout to Strava or another place
+  you set up, email a live-workout link, text a code to confirm your phone,
+  control your music on Spotify, look up places, routes, races and weather,
+  and comment on or cheer the workouts of runners you follow. Anything that
   cannot be undone (deleting a workout or your account) takes two steps and
   happens only after you agree.
 
