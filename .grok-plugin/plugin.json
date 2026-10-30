@@ -1,0 +1,21 @@
+{
+  "name": "jaksa",
+  "version": "1.0.0",
+  "description": "Jaksa, the voice coach for running and other workouts, in your assistant: ask about your workouts, records and training plan, and change your plan, goals, routes and settings in your own words. Sign in with your Jaksa account; no API key.",
+  "author": {
+    "name": "Generative Chaos LLC",
+    "email": "hello@jaksa.run",
+    "url": "https://jaksa.run"
+  },
+  "homepage": "https://jaksa.run",
+  "repository": "https://github.com/generativechaos/jaksa-plugin",
+  "license": "MIT",
+  "keywords": [
+    "jaksa",
+    "jaksa run",
+    "jaksa coach",
+    "jaksa.run"
+  ],
+  "logo": "assets/logo.png",
+  "mcpServers": ".mcp.json"
+}

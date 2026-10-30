@@ -1,0 +1,8 @@
+{
+  "mcpServers": {
+    "jaksa": {
+      "type": "http",
+      "url": "https://mcp.jaksa.run"
+    }
+  }
+}

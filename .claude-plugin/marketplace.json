@@ -1,0 +1,15 @@
+{
+  "name": "jaksa",
+  "description": "Jaksa, the voice coach for running and other workouts, as a Claude Code plugin.",
+  "owner": {
+    "name": "Generative Chaos LLC",
+    "email": "hello@jaksa.run"
+  },
+  "plugins": [
+    {
+      "name": "jaksa",
+      "source": "./",
+      "description": "Jaksa, the voice coach for running and other workouts, in your assistant: ask about your workouts, records and training plan, and change your plan, goals, routes and settings in your own words. Sign in with your Jaksa account; no API key."
+    }
+  ]
+}
